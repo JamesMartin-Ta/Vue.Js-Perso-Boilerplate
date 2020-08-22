@@ -55,3 +55,7 @@ export default {
   }),
 };
 </script>
+
+<style lang="scss">
+  @import 'https://use.fontawesome.com/releases/v5.0.13/css/all.css';
+</style>
